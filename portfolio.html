@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AK Development</title>
+    <link rel="stylesheet" type="text/css" href="css/portf.css">
+    <link href="https://fonts.googleapis.com/css?family=Kumar+One" rel="stylesheet">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+    <style>
+        @media screen and (max-width:530px){
+            #brand{
+                font-size: 30px;
+            }
+            .mainImg{
+                clear: both;
+                width: 100%;
+            }
+        }
+        @media screen and (min-width: 1200px){
+            #brand{
+                font-size: 50px;
+                text-align: center;
+            }
+        }
+    </style>
+</head>
+<body>
+
+<div id="container">
+    <!--Logo-->
+    <div id="top">
+        <!-- TODO Link hover -->
+        <p id="brand"><a href="index.html">AK Development</a></p>
+    </div>
+</div>
+
+<div id="mid">
+    <nav class="navbar navbar-expand-lg navbar-light">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNavDropdown">
+            <ul class="navbar-nav">
+                <li class="nav-item active">
+                    <a class="nav-link left_button" href="index.html">Home <span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link button" href="portfolio.html">Portfolio</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link button" href="about_me.html">About me</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+
+    <div id="portfolio">
+        <ul>
+            <li><a target="_blank" href="https://github.com/CrazySession/ud036_StarterCode"><img id="movieTrail" src="portfolio-pics/movie_trailers.png" alt="Oops no pic">
+            </a></li>
+            <li><p>Movie Trailer Website</p></li>
+        </ul>
+    </div>
+</div>
+
+</body>
+</html>

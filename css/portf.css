@@ -1,0 +1,80 @@
+body{
+    margin: 0;
+}
+
+#container{
+    width: 100%;
+}
+
+#top{
+    background-color: #38393B;
+    height: 100px;
+    width: 100%;
+}
+
+#brand{
+    margin: 0;
+    padding-top: 25px;
+    padding-left: 30px;
+    font-family: 'Kumar One', cursive;
+    font-size: 50px ;
+    text-decoration: #5C5E61;
+}
+
+#mid{
+    background-color: #5C5E61;
+    height: 50px;
+    width: 100%;
+}
+
+#nav{
+    list-style: none;
+    margin: 0;
+}
+
+.left_button{
+    float: left;
+    /*border: solid 2px white;
+    border-radius: 20px;*/
+    font-size: 30px;
+    margin-left: 15px;
+    border-right: #FFFFFF solid 2px;
+}
+
+.button{
+    float: left;
+    /*border: solid 2px white;
+    border-radius: 20px;*/
+    font-size: 30px;
+    margin-left: 15px;
+    border-right: #FFFFFF solid 2px;
+}
+
+a:link
+{
+    color:#FFFFFF;
+    text-decoration:none;
+}
+a:visited
+{
+    color:#FFFFFF;
+    text-decoration:none;
+}
+a:hover
+{
+    color:#FFFFFF;
+    text-decoration:none;
+}
+
+#movieTrail{
+    margin: 50px;
+    height: 250px;
+    width: 30%;
+    border: #808288 solid 2px;
+    border-radius: 20px;
+    padding: 15px;
+}
+
+ul{
+    list-style: none;
+}

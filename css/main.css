@@ -1,0 +1,103 @@
+/* Grey colors from Dark to light
+#38393B
+#5C5E61
+#74767B
+#808288
+#BCBFC7
+ */
+
+
+body{
+    margin: 0;
+}
+
+#container{
+    width: 100%;
+}
+
+#top{
+    background-color: #38393B;
+    height: 100px;
+    width: 100%;
+    border-bottom: #FFFFFF solid 2px;
+}
+
+#brand{
+    margin: 0;
+    padding-top: 25px;
+    padding-left: 30px;
+    font-family: 'Kumar One', cursive;
+    font-size: 50px ;
+    text-decoration: #5C5E61;
+}
+
+#pics{
+    width: 100%;
+}
+
+.mainImg{
+    height: 400px;
+    width: 33%;
+    float: left;
+    margin: 0;
+    padding: 0;
+    border-right: #FFFFFF solid 2px;
+}
+
+.clear{
+    clear: both;
+}
+
+#mid{
+    background-color: #38393B;
+    height: 100px;
+    width: 100%;
+    border-top: #FFFFFF solid 2px;
+}
+
+#nav{
+    list-style: none;
+    margin: 0;
+}
+
+.left_button{
+    float: left;
+    /*border: solid 2px white;
+    border-radius: 20px;*/
+    font-size: 30px;
+    margin-left: 15px;
+    margin-top: 10px;
+    padding: 8px;
+    border-right: #FFFFFF solid 2px;
+}
+
+.button{
+    float: left;
+    /*border: solid 2px white;
+    border-radius: 20px;*/
+    font-size: 30px;
+    margin-top: 10px;
+    margin-left: 15px;
+    padding: 8px;
+    border-right: #FFFFFF solid 2px;
+}
+
+#content{
+
+}
+
+a:link
+{
+    color:#FFFFFF;
+    text-decoration:none;
+}
+a:visited
+{
+    color:#FFFFFF;
+    text-decoration:none;
+}
+a:hover
+{
+    color:#FFFFFF;
+    text-decoration:none;
+}
