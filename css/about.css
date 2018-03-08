@@ -78,3 +78,25 @@ a:hover
 ul{
     list-style: none;
 }
+
+a:link
+{
+    color:#FFFFFF;
+    text-decoration:none  !important;
+}
+a:visited
+{
+    color:#FFFFFF;
+    text-decoration:none !important;
+}
+a:hover
+{
+    color:#FFFFFF;
+    text-decoration:none !important;
+}
+
+a:active
+{
+    color: #FFFFFF;
+    text-decoration: none !important;
+}

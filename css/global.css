@@ -1,0 +1,17 @@
+/* Grey colors from Dark to light
+#38393B
+#5C5E61
+#74767B
+#808288
+#BCBFC7
+ */
+
+#footer
+{
+    background-color: #BCBFC7;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    position: absolute;
+    text-align: center;
+}
