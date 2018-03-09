@@ -22,14 +22,6 @@ body{
     border-bottom: #FFFFFF solid 2px;
 }
 
-#brand{
-    margin: 0;
-    padding-top: 25px;
-    padding-left: 30px;
-    font-family: 'Kumar One', cursive;
-    font-size: 50px ;
-}
-
 #pics{
     width: 100%;
 }
@@ -85,17 +77,12 @@ body{
     height: 120%;
 }
 
-#rightButton{
 
-}
 
-#content{
-
-}
-
-#footer
-{
-    background-color: #BCBFC7;
+.jumbotron{
+    width: 50%;
+    max-width: 50%;
+    margin: 0 auto;
 }
 
 a:link

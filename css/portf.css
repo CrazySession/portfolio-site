@@ -12,15 +12,6 @@ body{
     width: 100%;
 }
 
-#brand{
-    margin: 0;
-    padding-top: 25px;
-    padding-left: 30px;
-    font-family: 'Kumar One', cursive;
-    font-size: 50px ;
-    text-decoration: #5C5E61;
-}
-
 #mid{
     background-color: #5C5E61;
     height: 80px;
@@ -59,8 +50,18 @@ body{
     padding: 15px;
 }
 
-#text{
-    margin-left: 180px;
+#next{
+    margin: 50px;
+    height: 250px;
+    width: 30%;
+}
+
+#no1{
+    margin-left: 200px;
+}
+
+#no2{
+    margin-left: 150px;
 }
 
 ul{

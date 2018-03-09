@@ -12,15 +12,6 @@ body{
     width: 100%;
 }
 
-#brand{
-    margin: 0;
-    padding-top: 25px;
-    padding-left: 30px;
-    font-family: 'Kumar One', cursive;
-    font-size: 50px ;
-    text-decoration: #5C5E61;
-}
-
 #mid{
     background-color: #5C5E61;
     height: 80px;
@@ -80,7 +71,7 @@ ul{
 }
 
 #tableOfContent{
-    margin: 25px;
+    margin: 0 auto;
     padding: 15px;
     width: 33%;
     border: #38393B solid 2px;
