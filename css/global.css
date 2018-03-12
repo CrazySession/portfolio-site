@@ -17,8 +17,16 @@
 
 /* TODO fixing footer */
 
-#footer
+.push{
+    height: 155px;
+
+}
+
+.footer
 {
+    margin: 0 auto;
+    height: 30px;
+    width: 100%;
     background-color: #BCBFC7;
     bottom: 0;
     right: 0;
