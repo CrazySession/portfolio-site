@@ -12,6 +12,14 @@ body{
     width: 100%;
 }
 
+#dribbler{
+    margin: 70px;
+}
+
+#behance{
+    margin: 15px;
+}
+
 #mid{
     background-color: #5C5E61;
     height: 80px;
